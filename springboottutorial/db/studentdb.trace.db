@@ -1,0 +1,36 @@
+2026-07-15 18:35:22.836218+05:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EMPLOYEE" not found; SQL statement:
+SELECT * FROM EMPLOYEE [42102-240]
+2026-07-15 18:35:28.643198+05:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EMPLOYEE" not found; SQL statement:
+SELECT * FROM EMPLOYEE [42102-240]
+2026-07-15 18:35:29.602317+05:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EMPLOYEE" not found; SQL statement:
+SELECT * FROM EMPLOYEE [42102-240]
+2026-07-15 18:35:49.015991+05:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EMPLOYEE" not found; SQL statement:
+SELECT * FROM EMPLOYEE [42102-240]
+2026-07-15 18:35:51.049911+05:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EMPLOYEE" not found; SQL statement:
+SELECT * FROM EMPLOYEE [42102-240]
+2026-07-15 18:35:51.635407+05:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EMPLOYEE" not found; SQL statement:
+SELECT * FROM EMPLOYEE [42102-240]
+2026-07-15 18:35:51.870440+05:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EMPLOYEE" not found; SQL statement:
+SELECT * FROM EMPLOYEE [42102-240]
+2026-07-15 18:35:52.141074+05:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EMPLOYEE" not found; SQL statement:
+SELECT * FROM EMPLOYEE [42102-240]
+2026-07-15 18:35:52.358559+05:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EMPLOYEE" not found; SQL statement:
+SELECT * FROM EMPLOYEE [42102-240]
+2026-07-15 18:35:59.654721+05:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EMPLOYEE" not found; SQL statement:
+SELECT * FROM EMPLOYEE [42102-240]
+2026-07-15 18:36:00.273223+05:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EMPLOYEE" not found; SQL statement:
+SELECT * FROM EMPLOYEE [42102-240]
+2026-07-15 18:37:44.396414+05:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EMPLOYEE" not found; SQL statement:
+SELECT * FROM EMPLOYEE [42102-240]
